@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Devid Miller",
+    "desc": "animi nostrum deserunt molestiae temporibus dolore incidunt perspiciatis repellendus iure nihil fugiat quae repellat eaque ipsam dolorem quidem! Ad eos doloribus ipsa distinctio natus, quas alias suscipit sequi eligendi? Enim omnis dolore earum perspiciatis natus odit doloremque voluptas totam, porro in. Autem esse est adipisci dolorum in soluta ullam distinctio quod",
+    "email": "devid@gmail.com",
+    "img": "https://i.ibb.co/71FWtmk/team-4.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Sumaiya Sumi",
+    "desc": "animi nostrum deserunt molestiae temporibus dolore incidunt perspiciatis repellendus iure nihil fugiat quae repellat eaque ipsam dolorem quidem! Ad eos doloribus ipsa distinctio natus, quas alias suscipit sequi eligendi? Enim omnis dolore earum perspiciatis natus odit doloremque voluptas totam, porro in. Autem esse est adipisci dolorum in soluta ullam distinctio quod",
+    "email": "sumaiya@gmail.com",
+    "img": "https://i.ibb.co/j6KyChh/team-3.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Wasim Khan",
+    "desc": "animi nostrum deserunt molestiae temporibus dolore incidunt perspiciatis repellendus iure nihil fugiat quae repellat eaque ipsam dolorem quidem! Ad eos doloribus ipsa distinctio natus, quas alias suscipit sequi eligendi? Enim omnis dolore earum perspiciatis natus odit doloremque voluptas totam, porro in. Autem esse est adipisci dolorum in soluta ullam distinctio quod",
+    "email": "wasim@gmail.com",
+    "img": "https://i.ibb.co/r0193cS/team-1.jpg"
+  }
+]

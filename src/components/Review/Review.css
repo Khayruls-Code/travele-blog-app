@@ -1,0 +1,9 @@
+.review img{
+  border: 2px solid var(--primary);
+}
+.swiper-pagination-bullets{
+  bottom: -0px !important;
+}
+.mySwiper{
+  padding-bottom: 50px;
+}

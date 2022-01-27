@@ -1,0 +1,50 @@
+.blog-box img{
+  width: 100%;
+}
+.blog-box p{
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+.blog-box h1{
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #555;
+  cursor: pointer;
+}
+.blog-box h1:hover{
+  color: var(--primary);
+}
+.blogDetails img{
+  width: 100%;
+}
+.blogDetails .date{
+  font-size: 1.1rem;
+  margin: 10px 0;
+  font-weight: 500;
+  font-style: italic;
+}
+.blogDetails h1{
+  font-size: 2rem;
+  color: rgb(129, 129, 255);
+  font-weight: 500;
+}
+.blogDetails h2{
+  font-size: 1.5rem;
+  color: #222;
+  font-weight: 400;
+  margin: 10px 0;
+}
+.blogDetails .cost{
+  font-size: 1.3rem;
+  color: var(--primary);
+  font-weight: 400;
+}
+.blogDetails .description{
+  font-size: 1.1rem;
+  color: #555;
+  margin: 10px 0;
+}
+.visitorName{
+  color: var(--primary);
+  font-size: 1.2rem;
+}

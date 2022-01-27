@@ -1,0 +1,28 @@
+.imformation ul li{
+  display: block;
+  margin: 15px 0;
+  font-size: 1.2rem;
+  color: var(--dark);
+  font-weight: 500;
+  position: relative;
+  margin-left: 20px;
+}
+.imformation ul li::before{
+  content: '';
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: -20px;
+  top: 8px;
+  background-color: var(--primary);
+  transform: rotate(-45deg);
+}
+.imformation  h4{
+  border-bottom: 2px solid var(--primary);
+  width: fit-content;
+}
+.imformation span{
+  font-size: 1.2rem;
+  color: var(--dark);
+  font-weight: 500;
+}

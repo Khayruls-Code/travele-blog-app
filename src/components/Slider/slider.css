@@ -1,0 +1,16 @@
+.mySwiper img{
+  width: 100%;
+  object-fit: contain;
+}
+.swiper-button-prev,
+.swiper-button-next{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: var(--white);
+}
+.swiper-button-prev::after,
+.swiper-button-next::after{
+  font-size: 20px;
+  color: var(--primary);
+}
